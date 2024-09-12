@@ -21,3 +21,8 @@ Lista de comandos do GIT
 
 -- Troca o Branch de Master para Main
     git branch -m master main
+
+-- Salva os arquivos 
+
+-- Envia as atualizações para o Github
+    git push
